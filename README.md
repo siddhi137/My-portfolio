@@ -28,8 +28,6 @@ You can check out the live version of the portfolio here.
 Contact Me
 Feel free to reach out to me if you have any questions or would like to connect.
 
-GitHub: @siddhi137
-LinkedIn: Siddhi's LinkedIn
 
 
 
