@@ -23,10 +23,15 @@
 
 
 Live Demo
-You can check out the live version of the portfolio here.
+You can check out the live version of the portfolio [here](https://siddhi137.github.io/My-portfolio/#home).
 
 Contact Me
+<<<<<<< HEAD
 Feel free to reach out to me if you have any questions or would like to connect.
+=======
+Feel free to reach out to me if you have any questions or would like to connect [Linkedin](https://www.linkedin.com/in/siddhi-undefined-06aab1293/).
+
+>>>>>>> 541fc7e9f430f8b343d827e7180557c1273f1054
 
 
 
